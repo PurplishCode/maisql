@@ -1,0 +1,2 @@
+# maisql
+LEARN MYSQL
